@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-dsd sdgsdsd ddfg
-=======
 hi how are you
->>>>>>> a14b0cfb9178e56b54d939b1d79beb3c3b4b4c44
